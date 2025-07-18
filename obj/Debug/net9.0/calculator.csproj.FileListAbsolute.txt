@@ -12,3 +12,4 @@ C:\Users\hp\OneDrive\Desktop\wiprotraining\calculator\obj\Debug\net9.0\refint\ca
 C:\Users\hp\OneDrive\Desktop\wiprotraining\calculator\obj\Debug\net9.0\calculator.pdb
 C:\Users\hp\OneDrive\Desktop\wiprotraining\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Desktop\wiprotraining\calculator\obj\Debug\net9.0\ref\calculator.dll
+C:\Users\hp\OneDrive\Desktop\wiprotraining\calculator\obj\Debug\net9.0\calculator.sourcelink.json

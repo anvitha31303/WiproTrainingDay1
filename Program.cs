@@ -8,6 +8,7 @@ namespace CalculatorOperations
         static void Main(string[] args)
           
             {
+                
                 int a;
                 int b;
                 char op;
@@ -33,7 +34,22 @@ namespace CalculatorOperations
                     break;
                     case '/':
                     Console.WriteLine($"res:{a/b}");
-                    break;
+                    break; 
+
+                    /*
+                int number=45;
+                int *ptr=&number;
+                Console.WriteLine($"Value:{number}");
+                 Console.WriteLine($"address:{(int)ptr}");
+                int ann;
+                long num=1111;
+                String ss="ann";
+                double eq=56.3698;
+                Decimal marks;
+                Console.WriteLine("Enter decimal val:");
+                marks=Convert.ToInt32(Console.ReadLine());
+                */
+
 
 
                /* int a ;
